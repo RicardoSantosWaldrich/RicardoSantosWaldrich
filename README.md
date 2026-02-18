@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim<br><br>Atualmente trabalho como desenvolvedor na Senior Sistemas, onde aplico meus conhecimentos em soluções empresariais. Paralelamente, estou cursando o 3º semestre de Sistemas de Informação, buscando unir a prática profissional com a base teórica da faculdade.</h3>
+<h3 align="left">👩‍💻  Sobre mim<br><br>Atualmente trabalho como desenvolvedor de Senior Sistemas, onde aplico meus conhecimentos em soluções empresariais. Paralelamente, estou cursando o 3º semestre de Sistemas de Informação, buscando unir a prática profissional com a base teórica da faculdade.</h3>
 
 ###
 
